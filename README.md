@@ -1,6 +1,6 @@
-# rts
+# VideoPlayer
 
-A new Flutter project.
+A video player developed in Flutter
 
 ## Getting Started
 
